@@ -1,0 +1,23 @@
+pwd 
+mkdir 
+cd
+cd ..
+cd\
+touch
+ls
+cat >hello.txt
+hello its me
+cat>> hello.txt
+how are you
+cat hi.txt
+i am a student
+cat hello.txt hi.txt
+mv hi.txt how.txt
+grep hello*.txt
+rm hello.txt
+date
+time
+free
+echo
+clear
+

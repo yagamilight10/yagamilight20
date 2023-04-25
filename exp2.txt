@@ -1,0 +1,18 @@
+su -
+useradd ironman (create user ironman)
+cat /etc/ paswd --> (shows :name-pass-uid-gid-homedir-location)
+
+groupadd Superheros (creates group) 	
+cat /etc/group (shows group details
+)
+useradd -G Superheros Superman (adds usersuperman to group superheros)
+cat /etc/group
+
+usermod -G Superheros iron man (adds existing user iron man to group superheros)
+
+-G -g (secondary group primary group
+id superman (check id)
+passwd superman (Add pass for superman user)
+userdel (delete user)
+who
+who am i
